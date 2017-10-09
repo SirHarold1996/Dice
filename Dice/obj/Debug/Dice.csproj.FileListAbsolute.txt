@@ -1,0 +1,9 @@
+C:\Users\Harold\Desktop\Shapes\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\Harold\Desktop\Shapes\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\Harold\Desktop\Shapes\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\Harold\Desktop\Shapes\Dice\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+C:\Users\Harold\Desktop\Shapes\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\Harold\Desktop\Shapes\Dice\Dice\obj\Debug\Dice.pdb
+C:\Users\Harold\Desktop\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\Harold\Desktop\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\Harold\Desktop\Dice\Dice\obj\Debug\Dice.pdb
